@@ -1,3 +1,3 @@
 # Semantic_Image_segmentation_opencv
 
-![Alt text](execution video.wmv?raw=true "Title")
+![Alt text](segmented_output.PNG?raw=true "Title")
